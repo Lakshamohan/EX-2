@@ -71,6 +71,9 @@ Open circuit characteristics:
 <img width="991" height="751" alt="565604071-434027f0-3c7f-4e91-9ae5-5ecd4d5e8ba6" src="https://github.com/user-attachments/assets/10e3d33e-461a-4c93-ad9a-6478b1b3f8b9" />
 
 Load Characteristics:
+
+<img width="962" height="431" alt="565604395-85a1e15b-73a7-4d7f-93ae-26b3b15894c1" src="https://github.com/user-attachments/assets/d9805e19-8a21-4966-aa87-73d84efd355d" />
+
 <img width="1580" height="523" alt="565604508-f637cf7c-5ddd-429c-837d-1cdc341ca4d5" src="https://github.com/user-attachments/assets/ba4058d9-6caf-437b-b889-492002e2a4e1" />
 
 
